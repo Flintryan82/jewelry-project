@@ -1,2 +1,2 @@
-<img src="projectIMG.png" alt="logo" width="100" height="100">
+<img src="projectImg.png" alt="Sky" width="500" height="500" style="display: block; margin-right: auto; margin-left: auto;>
 
